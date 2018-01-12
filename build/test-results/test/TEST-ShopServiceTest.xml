@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShopServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-01-11T15:30:13" hostname="EPUAKYIW2878" time="0.024">
+  <properties/>
+  <testcase name="shouldSuccessfullyMakePurchase" classname="ShopServiceTest" time="0.022"/>
+  <testcase name="shouldValidateIfUserOrderUnknownItem" classname="ShopServiceTest" time="0.0"/>
+  <testcase name="shouldCorrectlyDecreaseBalance" classname="ShopServiceTest" time="0.0"/>
+  <testcase name="shouldValidateIfUserHasLowBalance" classname="ShopServiceTest" time="0.0"/>
+  <testcase name="shouldValidateInsufficientItemsInStock" classname="ShopServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

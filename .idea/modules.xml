@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qa-test-task.iml" filepath="$PROJECT_DIR$/qa-test-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa-test-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa-test-task_main.iml" group="qa-test-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa-test-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa-test-task_test.iml" group="qa-test-task" />
+    </modules>
+  </component>
+</project>
